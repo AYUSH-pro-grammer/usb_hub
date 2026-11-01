@@ -1,0 +1,18 @@
+Name,Designator,Quantity,Footprint,LCSC Part Number,Unit Price (USD),Total Price (USD),URL
+"FE1.1s USB 2.0 4-Port Hub Controller (SSOP-28)",U1,1,SSOP-28,C42383361,0.7158,0.72,https://www.lcsc.com/product-detail/C42383361.html
+"12MHz Crystal Oscillator (SMD 3225 4P)",12MHz1,1,SMD 3225,C518158,0.0981,0.10,https://www.lcsc.com/product-detail/C518158.html
+"USB-C Receptacle Connector 16-Pin (TYPE-C-31-M-12)",J1,1,HRO TYPE-C-31-M-12,C165948,0.1739,0.17,https://www.lcsc.com/product-detail/C165948.html
+"USB-A Female Receptacle Connector (USB1040-GF-L-B)","J2, J3, J4, J5",4,GCT USB1046,C5355659,0.7632,3.05,https://www.lcsc.com/product-detail/C5355659.html
+"Pin Header 3 Position 2.54mm Pitch Single Row","J6, J7",2,2.54mm 1x03,C265013,0.3214,0.64,https://www.lcsc.com/product-detail/C265013.html
+"Polymeric PTC Resettable Fuse 2A 12V 1812",F1,1,1812,C315901,0.1769,0.18,https://www.lcsc.com/product-detail/C315901.html
+"100uF 6.3V Ceramic Capacitor X5R 0805","C1, C2, C3, C4",4,0805,C141660,0.3949,1.58,https://www.lcsc.com/product-detail/C141660.html
+"10uF 16V Ceramic Capacitor X6S 0805","C5, C7",2,0805,C307561,0.0996,0.20,https://www.lcsc.com/product-detail/C307561.html
+"1uF 50V Ceramic Capacitor X7R 0805",C6,1,0805,C28323,0.0426,0.04,https://www.lcsc.com/product-detail/C28323.html
+"2.7kΩ 100mW 0603 Resistor",R1,1,0603,C25994,0.0020,0.002,https://www.lcsc.com/product-detail/C25994.html
+"5.1kΩ 100mW 0603 Resistor","R2, R3",2,0603,C23186,0.0016,0.003,https://www.lcsc.com/product-detail/C23186.html
+"1kΩ 100mW 0603 Resistor","R4, R5, R6",3,0603,C21190,0.0017,0.005,https://www.lcsc.com/product-detail/C21190.html
+"Green 525nm LED Indication 0603","D2, D3, D4, D5",4,0603,C2994781,0.0821,0.33,https://www.lcsc.com/product-detail/C2994781.html
+"Red 645nm LED Indication 0603",D1,1,0603,C2286,0.0077,0.008,https://www.lcsc.com/product-detail/C2286.html
+PCB Fabrication,,1,,,4.00,4.00,https://www.jlcpcb.com
+Shipping,,1,,,8.00,8.00,
+GRAND TOTAL,,,,,,19.03,
