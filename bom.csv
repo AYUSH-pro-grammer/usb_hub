@@ -13,6 +13,7 @@ Name,Designator,Quantity,Footprint,LCSC Part Number,Unit Price (USD),Total Price
 "1kΩ 100mW 0603 Resistor","R4, R5, R6",3,0603,C21190,0.0017,0.005,https://www.lcsc.com/product-detail/C21190.html
 "Green 525nm LED Indication 0603","D2, D3, D4, D5",4,0603,C2994781,0.0821,0.33,https://www.lcsc.com/product-detail/C2994781.html
 "Red 645nm LED Indication 0603",D1,1,0603,C2286,0.0077,0.008,https://www.lcsc.com/product-detail/C2286.html
+"1mm Screws",,4,,,,0.40, https://store.rc4wd.com/1mm-x-6mm-Machine-Screw-and-Nut_p_3392.html?srsltid=AYCX9vIycEosIwabGsPoTfw73K-fBxiC5gdlN2avYkQrfX3chnO0lzBLuHc
 PCB Fabrication,,1,,,4.00,4.00,https://www.jlcpcb.com
 Shipping,,1,,,8.00,8.00,
-GRAND TOTAL,,,,,,19.03,
+GRAND TOTAL,,,,,,19.43,

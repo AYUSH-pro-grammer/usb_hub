@@ -64,6 +64,7 @@ The custom enclosure is planned for 3D printing from PLA with wooden look design
 | 1kΩ Resistor | 3 | $0.005 | [Buy](https://www.lcsc.com/product-detail/C21190.html) |
 | Green LED 0603 | 4 | $0.33 | [Buy](https://www.lcsc.com/product-detail/C2994781.html) |
 | Red LED 0603 | 1 | $0.008 | [Buy](https://www.lcsc.com/product-detail/C2286.html) |
+| 1mm Screws | 4 | $0.40 | [Buy](https://store.rc4wd.com/1mm-x-6mm-Machine-Screw-and-Nut_p_3392.html?srsltid=AYCX9vIycEosIwabGsPoTfw73K-fBxiC5gdlN2avYkQrfX3chnO0lzBLuHc) |
 | PCB Fabrication | 1 | $4.00 | [JLCPCB](https://jlcpcb.com) |
 | Shipping | 1 | $8.00 | — |
 
